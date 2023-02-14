@@ -12,9 +12,9 @@ function initMap() {
     var locations = [
         { lat: 52.27042, lng: -9.70264 },
         { lat: 52.271823, lng: -9.686548 },
-        { lat: 52.2807046, lng: -9.7026519 },
+        { lat: 52.280701, lng: -9.702656 },
     ];
-
+// 52.2807046!4d-9.7026519!16s%2Fg%2F11b6lnl0qv!3m5!1s0x48453568658c5ac3:0x7bd379e99980494!8m2!3d52.2807046!4d-9.7026519!16s%2Fg%2F11b6lnl0qv?hl=ru-RU
     var markers = locations.map(function(location, i) {
         return new google.maps.Marker({
             position: location,
