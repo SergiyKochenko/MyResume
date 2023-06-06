@@ -106,7 +106,6 @@ h4 {
     margin-bottom: 40px;
 }
 
-
 /*--------------------------------------------Heading*/
 
 header {
@@ -185,14 +184,12 @@ header {
     letter-spacing: 2px;
 }
 
-
 /*--------------------------------------------Hover.css*/
 
 .hvr-sweep-to-bottom:before {
     background: rgba(0, 0, 0, 0.2);
     height: 120px;
 }
-
 
 /*--------------------------------------------Footer*/
 
